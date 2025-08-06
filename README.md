@@ -9,9 +9,6 @@ Here are some ideas to get you started:
 
 
 -->
-## ✨ About Me :
-
-- 🌱 I’m currently learning Data Science
 
 ## 🌐 Social : 
 ![https://www.instagram.com/ysufsf_?igsh=NHEweG5sb2FrYmxy&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -26,7 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -40,4 +36,4 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
-[![Yusufsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf SF)](https://github.com/yusufsf01/github-readme-stats)
+![Yusufsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf Sf)
